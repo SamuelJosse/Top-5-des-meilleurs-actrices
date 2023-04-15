@@ -1,17 +1,13 @@
 Samuel JOSSE
 
 ## Information
-    - TP sur le candy crush
+    - TP réalisé en suivant la formation de John Taieb 
 
 
 ## Fabriqué avec
     - Javascript
-
-## Indication
-
-Pour lancer le jeu il faut seulement lancer index.html
-Le jeu est fonctionnel et marche très bien.
-
+    - JQuery
+   
 
 
 ## Auteur
